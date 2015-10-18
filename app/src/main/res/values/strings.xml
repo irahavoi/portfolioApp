@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Illia\'s App Portfolio v 0.1</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="popular_movies_stage_1">Popular movies. Stage 1</string>
+    <string name="popular_movies_stage_2">Popular movies. Stage 2</string>
+    <string name="super_duo">Super Duo!</string>
+    <string name="build_it_bigger">Build it bigger</string>
+    <string name="make_your_app_material">Make your app material</string>
+    <string name="go_ubiquitous">Go ubiquitous</string>
+    <string name="capstone_stage_1_design">Capstone, Stage 1 - Design</string>
+    <string name="capstone_stage_2_build">Capstone, Stage 2 - Build</string>
+
+
+    <string name="not_implemented_msg">App \'%1$s\' has not been implemented yet. Stay tuned!</string>
+
+</resources>
